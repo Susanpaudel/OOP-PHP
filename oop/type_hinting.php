@@ -51,7 +51,7 @@ $sch-&gt;display_names($stu);
       
 
       
-      
+echo "<a href='../index.php'><button> << Go Back</button></a>";   
       
       
 

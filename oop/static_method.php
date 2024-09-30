@@ -49,7 +49,7 @@ Static methods are declared with the static keyword
       
       
       
-
+      echo "<a href='../index.php'><button> << Go Back</button></a>";
 
 
 ?>

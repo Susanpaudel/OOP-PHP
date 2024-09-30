@@ -31,7 +31,7 @@ $obj-&gt;result(12, 12);
 </code></pre>';
 
       
-      
+echo "<a href='../index.php'><button> << Go Back</button></a>";   
       
       
 

@@ -60,7 +60,7 @@ Why used interface? => if i want to inherite different class like A,C to class B
       </code></pre>';
       
       
-
+      echo "<a href='../index.php'><button> << Go Back</button></a>";
       
       
       

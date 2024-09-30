@@ -44,7 +44,7 @@ An inherited class is defined by using the extends keyword.</p>
       </code></pre>';
       
       
-
+      echo "<a href='../index.php'><button> << Go Back</button></a>";
 
 
 ?>

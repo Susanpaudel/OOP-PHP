@@ -22,7 +22,7 @@ $obj2 = new test2\information;
 $obj2-&gt;info();
 
 echo "&lt;h1&gt;Code&lt;/h1&gt;";
-echo "&lt;pre&gt;&lt;code&gt;";'
+echo "&lt;pre&gt;&lt;code&gt;";';
 
-
+echo "<a href='../index.php'><button> << Go Back</button></a>";
 ?>

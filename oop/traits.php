@@ -40,7 +40,7 @@ $obj-&gt;message();
 
       
       
-      
+echo "<a href='../index.php'><button> << Go Back</button></a>";
       
 
 

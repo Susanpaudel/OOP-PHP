@@ -26,7 +26,7 @@ private - the property or method can ONLY be accessed within the class</p>
       </code></pre>';
       
       
-      
+      echo "<a href='../index.php'><button> << Go Back</button></a>";
 
 
 

@@ -40,6 +40,6 @@ echo '<h2>What is Object?</h2>
       </code></pre>';
       
 
-
+      echo "<a href='../index.php'><button> << Go Back</button></a>";
 
 ?>

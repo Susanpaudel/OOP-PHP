@@ -29,7 +29,7 @@ echo '<h2>What is method and proterties Overriding?</h2>
       </code></pre>';
       
       
-      
+      echo "<a href='../index.php'><button> << Go Back</button></a>";
       
 
 

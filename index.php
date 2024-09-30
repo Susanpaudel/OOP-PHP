@@ -130,7 +130,7 @@
                 <a href="oop/traits.php">Traits</a>
             </li>
             <li class="list-group-item">
-                <a href="oop/type_hiniting.php">Type Hinting</a>
+                <a href="oop/type_hinting.php">Type Hinting</a>
             </li>
             <li class="list-group-item">
                 <a href="oop/namespace.php">Namespace</a>
